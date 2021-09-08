@@ -8,5 +8,5 @@ foot="{$2}_footer".html
 
 result=$3
 
-cat $head $fname $foot > $result 
+cat "$head" "$fname" "$foot" > "$result" 
 
