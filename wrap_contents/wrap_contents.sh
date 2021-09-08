@@ -2,9 +2,9 @@
 
 fname=$1
 
-head="{$2}_header".html
+head="$2_header".html
 
-foot="{$2}_footer".html
+foot="$2_footer".html
 
 result=$3
 
